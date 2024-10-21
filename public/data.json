@@ -1,0 +1,84 @@
+[
+    {
+      "id": 1,
+      "estate_title": "Luxury Villa",
+      "segment_name": "Single-family home",
+      "description": "A stunning luxury villa with 5 bedrooms and modern amenities.",
+      "price": "$500,000",
+      "status": "sale",
+      "area": "3500 sqft",
+      "location": "Beverly Hills, CA",
+      "facilities": ["Living room", "Swimming pool", "Kitchen", "Garage"],
+      "image": "https://i.ibb.co.com/kJCxZKs/Luxury-Villa.jpg"
+    },
+    {
+      "id": 2,
+      "estate_title": "Modern Apartment",
+      "segment_name": "Apartment",
+      "description": "A 3-bedroom apartment in the heart of the city.",
+      "price": "$200,000",
+      "status": "rent",
+      "area": "1200 sqft",
+      "location": "New York, NY",
+      "facilities": ["Living room", "Gym", "Kitchen"],
+      "image": "https://i.ibb.co.com/3BJmxcz/Modern-Apartment.jpg"
+    },
+    {
+      "id": 3,
+      "estate_title": "Suburban House",
+      "segment_name": "Single-family home",
+      "description": "A spacious 4-bedroom house in a quiet suburban area.",
+      "price": "$350,000",
+      "status": "sale",
+      "area": "2800 sqft",
+      "location": "Houston, TX",
+      "facilities": ["Living room", "Backyard", "Kitchen", "Garage"],
+      "image": "https://i.ibb.co.com/8rQx5Cr/Suburban-House.jpg"
+    },
+    {
+      "id": 4,
+      "estate_title": "Cozy Cottage",
+      "segment_name": "Vacation rental",
+      "description": "A charming 2-bedroom cottage near the lake.",
+      "price": "$150,000",
+      "status": "rent",
+      "area": "900 sqft",
+      "location": "Lake Tahoe, CA",
+      "facilities": ["Living room", "Fireplace", "Kitchen"],
+      "image": "https://i.ibb.co.com/Vvxpprw/Beachfront-Condo.jpg"
+    },
+    {
+      "id": 5,
+      "estate_title": "Beachfront Condo",
+      "segment_name": "student housing",
+      "description": "A luxurious beachfront condo with ocean views.",
+      "price": "$400,000",
+      "status": "sale",
+      "area": "1800 sqft",
+      "location": "Miami, FL",
+      "facilities": ["Living room", "Swimming pool", "Kitchen", "Balcony"],
+      "image": "https://i.ibb.co.com/bPKjPDc/Cozy-Cottage.jpg"
+    },
+    {
+      "id": 6,
+      "estate_title": "Downtown Loft",
+      "segment_name": "Commercial - Office space",
+      "description": "A modern loft in the downtown area, perfect for a business or office space.",
+      "price": "$2,500/month",
+      "status": "rent",
+      "area": "2000 sqft",
+      "location": "Chicago, IL",
+      "facilities": ["Open floor plan", "Conference room", "Kitchen"],
+      "image": "https://i.ibb.co.com/JHNf3W8/Downtown-Loft.jpg"
+    }
+  ]
+
+
+ 
+
+
+
+
+
+
+  
